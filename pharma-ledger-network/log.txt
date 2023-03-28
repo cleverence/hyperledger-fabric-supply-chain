@@ -1,2 +1,0 @@
-[34m2023-03-28 01:28:11.091 EAT [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
-[34m2023-03-28 01:28:11.117 EAT [channelCmd] update -> INFO 002[0m Successfully submitted channel update
