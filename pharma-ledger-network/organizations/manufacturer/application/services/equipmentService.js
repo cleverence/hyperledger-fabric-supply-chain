@@ -15,7 +15,7 @@ class EquipmentService {
   /**
   * 1. Select an identity from a wallet
   * 2. Connect to network gateway
-  * 3. Access farma ledger supply chain network
+  * 3. Access pharma ledger supply chain network
   * 4. Construct request to makeEquipment
   * 5. Submit invoke makeEquipment transaction
   * 6. Process response
