@@ -37,7 +37,7 @@ class EquipmentService {
       // Connect to gateway using application specified parameters
       console.log('Connect to Fabric gateway.');
       await gateway.connect(connectionProfile, connectionOptions);
-      // Access farma ledger supply chain network
+      // Access pharma ledger supply chain network
       console.log('Use network channel: plnchannel.');
       const network = await gateway.getNetwork('plnchannel');
       // Get addressability to farma ledger supply chain network contract
