@@ -5,7 +5,7 @@
 **/
 $(document).ready(function(){
     //make sure change to your own machine ip or dmain url
-    var urlBase = "http://localhost:30000";
+    var urlBase = "http://127.0.0.1:30000";
     //var urlBase = "http://your-ip:30000";
      var tabs =["addToWallet", "makeEquipment", "query", "queryHistory"];
      $("#queryResult").hide();
