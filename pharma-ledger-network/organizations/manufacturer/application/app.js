@@ -75,7 +75,7 @@ app.post('/makeEquipment', async (req, res, next) => {
 app.get('/queryHistoryByKey', async (req, res, next) => {
   console.log(req.body);
   var userName = cache.get('userName')
-  //var userName = "brian";
+  //var userName = "john";
   let key = req.query.key;
   try {
     if(!userName || userName.lenth<1) {
