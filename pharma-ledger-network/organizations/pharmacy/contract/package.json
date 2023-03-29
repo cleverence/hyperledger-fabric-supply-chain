@@ -14,7 +14,7 @@
         "start": "fabric-chaincode-node start"
     },
     "engineStrict": true,
-    "author": "brian",
+    "author": "Cleverence Kombe",
     "license": "Apache-2.0",
     "dependencies": {
         "fabric-contract-api": "^2.4.9",

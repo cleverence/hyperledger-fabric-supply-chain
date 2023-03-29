@@ -5,7 +5,7 @@
 **/
 $(document).ready(function(){
   //make sure change to your own machine ip or dmain url
-  var urlBase = "http://localhost:30002";
+  var urlBase = "http://127.0.0.1:30002";
   //var urlBase = "http://54.161.38.96:30002";
   var tabs =["addToWallet", "pharmacyReceived", "query", "queryHistory"];
   $("#queryResult").hide();
